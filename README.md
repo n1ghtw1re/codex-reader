@@ -4,7 +4,7 @@ A modern, elegant book reader for the web that brings your content to life. Buil
 
 ![Codex Screenshot](https://github.com/n1ghtw1re/codex-reader/blob/main/codex_screenshot.png)
 
-## [How to Use the Codex Reader](https://shiny-melba-5ae2da.netlify.app/)
+## [LIVE APP TUTORIAL](https://codex-reader.netlify.app/)
 
 ## ✨ Key Features
 
