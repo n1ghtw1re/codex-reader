@@ -2,7 +2,9 @@
 
 A modern, elegant book reader for the web that brings your content to life. Built with React and TypeScript, this reader offers a distraction-free reading experience with beautiful themes and responsive design.
 
-![Book Reader Preview](https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&auto=format&fit=crop&q=80)
+![Codex Screenshot](https://github.com/n1ghtw1re/codex-reader/blob/main/codex_screenshot.png)
+
+## [How to Use the Codex Reader](https://shiny-melba-5ae2da.netlify.app/)
 
 ## ✨ Key Features
 
