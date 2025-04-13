@@ -102,32 +102,6 @@ export async function loadBook(): Promise<Book> {
           ]
         }
       ]
-    },
-    {
-      title: "Integration",
-      path: "part4",
-      chapters: [
-        {
-          title: "Website Integration",
-          path: "chapter7",
-          pages: [
-            {
-              path: "page_001.md",
-              content: await import('../data/book/part4/chapter7/page_001.md?raw').then(m => m.default)
-            }
-          ]
-        },
-        {
-          title: "Advanced Configuration",
-          path: "chapter8",
-          pages: [
-            {
-              path: "page_001.md",
-              content: await import('../data/book/part4/chapter8/page_001.md?raw').then(m => m.default)
-            }
-          ]
-        }
-      ]
     }
   ];
 
